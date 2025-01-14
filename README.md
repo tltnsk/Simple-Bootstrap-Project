@@ -24,5 +24,8 @@ This project is a responsive website built using **Bootstrap 5**. It demonstrate
 
 ---
 
+![screenshot1](https://github.com/user-attachments/assets/c1bb82f8-813b-4337-8118-68839cc7e025)
+
+![screenshot2](https://github.com/user-attachments/assets/4b71bb01-acbe-43d2-bbf0-c3a16adb23f6)
 
 
